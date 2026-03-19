@@ -1,0 +1,25 @@
+# LangChain e integrações
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-chroma
+
+# Hugging Face
+transformers
+huggingface_hub
+sentence-transformers
+
+# Modelagem de dados
+pydantic
+
+# Outros utilitários
+ipykernel
+jinja2
+pypdf
+yt_dlp
+pydub
+audioop-lts; python_version>="3.13"
+beautifulsoup4
+# faiss-cpu
+lark
